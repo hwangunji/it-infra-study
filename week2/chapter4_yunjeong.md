@@ -1,0 +1,3 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>[이론 정리] 4. 인프라를 지탱하는 기본 이론</title><style>
+</head><body><article id="2b464551-c9ae-4642-b651-e4ddfb2c405e" class="page sans"><header><h1 class="page-title">[이론 정리] 4. 인프라를 지탱하는 기본 이론</h1></header><div class="page-body"><h2 id="75d65159-81e3-457b-aac8-49c4d773af7e" class="">1. 직렬 / 병렬</h2><ul id="d3da127a-480b-43f0-be3a-b2d7a83b01ac" class="bulleted-list"><li style="list-style-type:disc">CPU 코어나 서버를 병렬화 할때는 어떻게 효율적으로 활용하는지가 중요.</li></ul><ul id="2e2b0ad9-e92a-49e6-af8c-21ab69a5c40e" class="bulleted-list"><li style="list-style-type:disc"></li></ul><p id="ef27493e-2707-4db7-aa4b-4845fcc3d841" class="">
+</p></div></article></body></html>
